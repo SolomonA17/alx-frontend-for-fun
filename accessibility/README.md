@@ -1,1 +1,1 @@
-# Tasks for the project Accessibility
+# Accessibility
